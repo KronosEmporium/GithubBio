@@ -1,1 +1,3 @@
 Hello, my name is Crosby Allison. I am a web and software developer from Seattle. I am experienced in LAMP stack development as well as Python.
+
+I will help develop your pipeline to include flighting, AB testing, and other DevOps standards.
